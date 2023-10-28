@@ -7,6 +7,7 @@ VMG hereby grants you a non-exclusive, worldwide, irrevocable, royalty-free lice
 If you create a modified version of the code and intend to distribute it as an open-source project, you are obliged to:
 - Clearly and prominently include an unambiguous attribution to the original VMG project in your project's README or documentation.
 - Make your modified code freely available as open-source.
+
 It shall be noted that modified versions cannot be sold and must be made open-source. If you wish to sell a modified version, you must first make an agreement with VMG regarding compensation.
 
 ## Commercial Use by Businesses
