@@ -1,1 +1,1 @@
-Hello World
+Vivian Media Group is proud to release it's first (actual) version of obsNews! You can now use obsNews to display news tickers (with RSS compatibility), spinning logos and weather on your streams! Check out vivianmediagroup/obsNews for more information. Thank you for using obsNews!
